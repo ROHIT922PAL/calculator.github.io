@@ -4,14 +4,14 @@
     box-sizing: border-box;
     outline: none;
     font-size: sans-serif;
-    background-color: #ecf03;
+    background-color: whitesmoke;
 }
 .container{
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #ecf03;
+    background-color: white;
 }
 .calc{
     box-shadow: 6px 6px 13px black,
@@ -29,8 +29,8 @@ input{
     width: 258px;
     box-shadow: inset -6px -6px 13px #fff,
                 inset 6px 6px 13px rgba(0, 0, 0, .16);
-    background-color:  #ecf03;
-    border: none;
+    background-color:  whitesmoke;
+    border : none;
     border-radius: 32px;
     color: rgb(26,25,25);
     text-align: end;
@@ -41,7 +41,7 @@ input{
 button{
     box-shadow: inset 6px 6px 13px #fff,
                 inset 6px 6px 13px rgba(0, 0, 0, .16);
-    background-color:  #ecf03;
+    background-color:  whitesmoke;
     border: none;
     border-radius: 50%;
     width: 50px;
@@ -56,8 +56,9 @@ button{
     border-radius: 42px;
     box-shadow: inset 6px 6px 13px #fff,
                 inset 6px 6px 13px rgba(0, 0, 0, .16);
-    background-color:  #ecf03;
+    background-color:  whitesmoke;
     
 
 }
+
 
